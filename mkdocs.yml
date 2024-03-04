@@ -3,6 +3,7 @@ copyright: Copyright &copy; BuiltView
 site_url: https://support.builtview.com
 
 extra:
+  generator: false
   social:
     # - icon: fontawesome/brands/discord
     #   link: https://discord.progsoc.org

@@ -45,7 +45,7 @@ This documentation is designed to help you get the most out of BuiltView. If you
 
     Take a look at some ways to add value to your onsite content
 
-    [:octicons-arrow-right-24: Getting started](./functions/KML-Overlays.md)
+    [:octicons-arrow-right-24: Getting started](./functions/kml-overlays.md)
 
 -   __Solving Problems__
 
@@ -53,5 +53,5 @@ This documentation is designed to help you get the most out of BuiltView. If you
 
     Consult this colelction for more complex issues.
 
-    [:octicons-arrow-right-24: Getting started](./Solving-Problems/Recovering-Lost-Photos.md)
+    [:octicons-arrow-right-24: Getting started](./solving-problems/recovering-lost-photos.md)
 </div>
