@@ -10,13 +10,13 @@ _An effective & efficient construction team relies heavily upon good quality, we
 BuiltView has been developed with input from active site teams to ensure it caters to & keeps up with the demands that construction teams face when capturing, sharing & managing onsite content. 
 
 <center>
-![BuiltView Mobile](/assets/getting-started/phone2.png)
+![BuiltView Mobile](../assets/getting-started/phone2.png)
 </center>
 
 The app is designed to replace your phone camera, to capture and document onsite activities which are automatically uploaded to BuiltView.com and can be shared with your selected work teams.
 
 <center>
-![BuiltView Web](/assets/getting-started/desktop.PNG)
+![BuiltView Web](../assets/getting-started/desktop.PNG)
 </center>
 
 There are many functions that BuiltView incorporates that adds value to your content. Through tags to provide more context, descriptions to tell the story, location capture to provide insight, the capability to view and overlay content on a map with custom project layers like Nearmaps and KML site plans, export bulk photos in high-quality JPEG, and set your own file name structure with dates, username, tags, and descriptions with features & functions continuously added. 

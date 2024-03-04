@@ -18,7 +18,7 @@ The route covered during the 360 tour can also be documented for further context
 The content produced during a 360 tour is then easily uploadable to BuiltView.com where it can be managed, stored & shared with wider site teams & clients.  
 
 <center>
-![360 Tour](/assets/360/built360.PNG)
+![360 Tour](../assets/360/built360.PNG)
 </center>
 
 ## Recent Successes
@@ -30,7 +30,7 @@ During these times of limited site access, the team at MTMS implemented the 360 
 The 360 tour function that BuiltView provides was a very useful and impactful substitution for in-person inspections. It also allowed for more effective & transparent communication pathways between the contractor & client and proved efficient in documentation purposes. 
 
 <center>
-![360 Tour](/assets/360/360.PNG)
+![360 Tour](../assets/360/360.PNG)
 </center>
 
 ## How to get started

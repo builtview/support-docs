@@ -26,7 +26,7 @@ These functions include:
 * **Teams**; share directly with your teammates.
 
 <center>
-![BuiltView Mobile](/assets/getting-started/phone1.png)
+![BuiltView Mobile](../assets/getting-started/phone1.png)
 </center>
 
 To streamline the process of providing context through tags, descriptions, and teams use the pre-selection function. This ensures that all photos & videos taken include the details specified by you.
