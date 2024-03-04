@@ -16,7 +16,7 @@ Creating neat daily site reports to presentations for clients, BuiltView's smart
 
 Find out all about reports by searching "Reports" in the article search.
 
-## Map OVerlays & KML Files
+## Map Overlays & KML Files
 
 When the BuiltView app is used to capture content onsite it will record the GPS coordinates & location. The locations that content has been created can be visualised and overlaid on built-in NearMap maps. A new function that many teams have found useful is the overlay function of KML files, which allows KML maps/markups to be transposed against locations of photos to provide further insight and context.
 
