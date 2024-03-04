@@ -33,7 +33,8 @@ theme:
     # - navigation.tabs
     - content.action.edit
     - navigation.tabs.sticky
-    - navigation.indexes
+    # - navigation.indexes
+    - toc.integrate
     - toc.follow
     - toc.track
     - navigation.top
