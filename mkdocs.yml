@@ -34,7 +34,7 @@ theme:
     - content.action.edit
     - navigation.tabs.sticky
     # - navigation.indexes
-    - toc.integrate
+    # - toc.integrate
     - toc.follow
     - toc.track
     - navigation.top
