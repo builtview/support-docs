@@ -22,7 +22,7 @@ You can also change how media is displayed, by default Gallery is selected, but 
 
 ## Reports
 
-You can quickly make neat daily site reports as presentations for clients. Builtview’s smart and customisable report feature can be accessed once you have selected multiple media items within a team, showing the option to ‘Export’ where you can customise the type of report and what is included. To learn more about this check out the [Report and Exports](https://?) article in the Media Basics collection. 
+You can quickly make neat daily site reports as presentations for clients. Builtview’s smart and customisable report feature can be accessed once you have selected multiple media items within a team, showing the option to ‘Export’ where you can customise the type of report and what is included. To learn more about this check out the [Report and Exports](https://support.builtview.com/media-basics/reports-and-exports) article in the Media Basics collection. 
 
 <center>
 ![Report and Exports](../assets/getting-started/Report1.png)
