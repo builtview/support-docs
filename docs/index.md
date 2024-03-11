@@ -15,21 +15,21 @@ This documentation is designed to help you get the most out of BuiltView. If you
 
     [:octicons-arrow-right-24: Getting started](./for-new-users/first-time.md)
 
--   __Teams__
+-   __Teams and projects__
 
     ---
 
     Learn how to create a team, add team members and guests, edit a team and more
 
-    [:octicons-arrow-right-24: Getting started](./teams/how-to-create-a-team.md)
+    [:octicons-arrow-right-24: Getting started](./teams-and-projects/1intro.md)
 
--   __Manage Media__
+-   __Media Basics__
 
     ---
 
     Learn all things media in BuiltView from uploading to editing
 
-    [:octicons-arrow-right-24: Getting started](./managing-media/how-to-add-tags.md)
+    [:octicons-arrow-right-24: Getting started](./media-basics/uploading-media.md)
 
 -   __BuiltView: 360 Tours__
 

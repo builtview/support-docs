@@ -30,4 +30,4 @@ Sometimes photos need some adjustments so you can see details more clearly, you 
 
 Builtview lets you markup, adjust lighting and annotate media items to provide necessary context and highlight important components of your captures to increase the value of photo-based evidence.
 
-Learn how to do this on mobile in the [Mobile help](https://support.builtview.com/mobile-help/markup/) article collection.
+Learn how to do this on mobile in the [Mobile help](https://support.builtview.com/mobile-help/8markup/) article collection.

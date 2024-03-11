@@ -44,4 +44,4 @@ Don’t forget to invite users so you and your team can create a comprehensive r
 
 Teams allow you to separate the stages and functions of your projects for a holistic and complete view providing an invaluable on-site photo record.
 
-Learn to create a team on mobile in the [Mobile Help](https://support.builtview.com/mobile-help/creating-team) article collection.
+Learn to create a team on mobile in the [Mobile Help](https://support.builtview.com/mobile-help/2creating-team) article collection.

@@ -36,4 +36,4 @@ This should open a new page with an information and comments panel on the left o
 
 You can change all parameters except GPS and Floorplan on multiple media items at once. Learn how in [Bulk selection](https://support.builtview.com/media-basics/bulk-selection/) article.
 
-Learn how to do this on mobile in the [Mobile help](https://support.builtview.com/mobile-help/changing-media-info/) article collection
+Learn how to do this on mobile in the [Mobile help](https://support.builtview.com/mobile-help/7changing-media-info/) article collection

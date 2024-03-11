@@ -101,3 +101,5 @@ You or your team may accidentally upload photos that clutter and disorganise you
 <center>
 ![Bulk Delete](../assets/media-basics/delete.png)
 </center>
+
+Learn how to do this on mobile in the [Mobile help](https://support.builtview.com/mobile-help/6bulk-selection) article collection
