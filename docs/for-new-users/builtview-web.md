@@ -42,5 +42,6 @@ If you’re new to Builtview and would like to have all your previous photos & v
 
 This can be done on your mobile and desktop with ‘import.’ You can import multiple photos at once. Select the team and add tags and/or descriptions before importing.
 
-
+<center>
 ![Upload](../assets/getting-started/Import1.png)
+</center>
