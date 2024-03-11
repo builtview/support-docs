@@ -14,17 +14,17 @@ You can set up BuiltView to back up every photo you take to your external camera
 To enable this feature, go to the Settings menu and check "Store media externally":
 
 <center>
-![Store media externally](../assets/solving-problems/backup.jpg)
+![Store media externally](../assets/solving-problems/Backup.jpg)
 </center>
 
-## If a photo is not uploading: Export
+## If a photo is not uploading: Download
 
 If you can find the photo in the app gallery but it won't upload to the web - either if it looks like it uploaded but didn't, or if it's showing an "upload error" message - you can export the photo to your normal Camera Roll.
 
 To do this, either open a single photo and press the "download" icon at the top of the photo, or select multiple photos in the gallery view and press "Download" at the bottom of the page.  This should copy the selected photo/s to your external camera roll so you have a safe backup, and then you can either re-import the photo into the BuiltView app to trigger a new upload, or upload the photo through the web portal.
 
 <center>
-![Download](../assets/solving-problems/downloading.jpg)
+![Download](../assets/solving-problems/Downloading.jpg)
 </center>
 
 ## If a photo is missing: Locate missing files

@@ -19,8 +19,8 @@ The app is designed to replace your phone camera, to capture and document onsite
 ![BuiltView Web](../assets/getting-started/desktop.PNG)
 </center>
 
-There are many functions that BuiltView incorporates that adds value to your content. Through tags to provide more context, descriptions to tell the story, location capture to provide insight, the capability to view and overlay content on a map with custom project layers like Nearmaps and KML site plans, export bulk photos in high-quality JPEG, and set your own file name structure with dates, username, tags, and descriptions with features & functions continuously added. 
+Builtview’s functions adds value to your content. Through tags to provide more context, descriptions to tell the story, location to provide insight, and floorplans to visualise progress. Builtview has the capability to view and overlay content on a map with custom project layers like Nearmaps and KML site plans, you can export photos as customisable presentations or reports with dates, uploader, tags and descriptions. 
 
-Going forward incorporate BuiltView into your workflow, for site teams, save hours per week and for construction leaders & managers, make the process of keeping on top of project progressions seamless. 
+Incorporating Builtview for site teams saves hours a week searching through media and creating site reports. Builtview saves money by settling disputes and preventing unnecessary site visits. Builtview increases the efficiency and effectiveness of onsite photo record management.
 
-Go ahead and read articles for more information & guidance on setting up & getting the most out of BuiltView. 
+Read through some of the articles for more information & guidance on setting up & getting the most out of Builtview.

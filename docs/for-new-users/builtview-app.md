@@ -3,7 +3,7 @@ title: "Get Started: BuiltView App"
 description: How to setup & get the most out of the BuiltView App
 ---
 
-This article assists new users of BuiltView on how to get started & get the most of the app to add value to everyday workflows. 
+When you first download and start up Builtview, the app will show you the basics on how to use the application! You can reset app tours in your profile settings to revisit them. To get the most out of Builtview mobile check out the article collection [Mobile Help](https://https://support.builtview.com/)
 
 ## Getting Started
 
@@ -22,11 +22,11 @@ These functions include:
 * **Tags**; short phrases attached to content that can be used to sort & filter.
 * **Description**; tell the story of the image through a few words.
 * **Location**; capture the exact place the content was captured.
-* **Timestamp**; watermarked on the image, the exact time of capture.
+* **Timestamp**; watermarked on the image, the exact time of capture, approx. street address, GPS coordinates, direction.
 * **Teams**; share directly with your teammates.
 
 <center>
 ![BuiltView Mobile](../assets/getting-started/phone1.png)
 </center>
 
-To streamline the process of providing context through tags, descriptions, and teams use the pre-selection function. This ensures that all photos & videos taken include the details specified by you.
+To streamline the process of providing context through tags, descriptions, and teams use the pre-selection function. This ensures that all photos & videos taken include the details specified by you, this can be edited on images at a later stage if needed.
