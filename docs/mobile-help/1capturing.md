@@ -1,5 +1,5 @@
 ---
-title: Capturing Media - Mobile
+title: Capturing Media
 ---
 
 Capturing media is made easy with Builtview! When you first launch the application, you will open to the camera page.

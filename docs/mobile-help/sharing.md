@@ -1,5 +1,5 @@
 ---
-title: Sharing Media - Mobile
+title: Sharing Media
 ---
 You can invite guests to share your team content from within BuiltView, or you can send specific content to others outside of BuiltView through sharing. Share content of the whole team by inviting the guest to them. 
 

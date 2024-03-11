@@ -1,5 +1,5 @@
 ---
-title: Selecting multiple items - Mobile
+title: Selecting multiple items
 ---
 
 Bulk selection refers to selecting multiple media items at once. Bulk selection makes it quicker and easier to make edits to tags or descriptions, deleting, copying, and downloading media.

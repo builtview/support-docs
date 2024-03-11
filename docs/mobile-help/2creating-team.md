@@ -1,5 +1,5 @@
 ---
-title: Creating a team - Mobile
+title: Creating a team 
 ---
 
 Teams are an effective way of keeping track of onsite progress. If you have a large project, you can separate and organise progression throughout multiple teams and connect it in a project.

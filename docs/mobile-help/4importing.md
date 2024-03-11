@@ -1,5 +1,5 @@
 ---
-title: Importing Media - Mobile
+title: Importing Media
 ---
 
 If you have photos on your camera roll that needs to be organised and kept in your team records, you can do this easily with Builtview.

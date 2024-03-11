@@ -1,3 +1,3 @@
-# Everything you need to know - Mobile
+# Everything you need to know
 
 This article collection includes all the important information necessary to use Builtview on mobile. The desktop application has a lot more features. There are more articles which relate to the mobile application in [Floorplans](https://support.builtview.com/advanced-features-and-team-management/floorplans/) article and [Recover lost media article collections](https://support.builtview.com/solving-problems/recovering-lost-media/).

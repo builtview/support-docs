@@ -1,5 +1,5 @@
 ---
-title: Finding Media - Mobile
+title: Finding Media
 ---
 
 Finding media is made easy with Builtview with advanced categorisation features and filtering with tags, descriptions, uploaders, media type, location and more! The files on a team, in your BV camera roll, or in All Photos & Videos can be sorted and searched. You can also switch to map view as an alternative way to visualise your photo records. 

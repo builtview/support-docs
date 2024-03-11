@@ -1,5 +1,5 @@
 ---
-title: Deleting Media - Mobile
+title: Deleting Media 
 ---
 
 Clean up your documents by deleting irrelevant media items or duplicates.

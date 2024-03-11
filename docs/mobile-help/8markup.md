@@ -1,5 +1,5 @@
 ---
-title: Markup and Annotate Media - Mobile
+title: Markup and Annotate Media
 ---
 
 Annotating media items helps add important context and highlight elements which can help you and your team down the line. You can crop, rotate, annotate, add text and more. You can also edit the brightness and contrast if it is difficult to see those key details. 

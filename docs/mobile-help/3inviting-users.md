@@ -1,5 +1,5 @@
 ---
-title: Inviting Users to Teams - Mobile
+title: Inviting Users to Teams
 ---
 
 Invite people to your team and start building a comprehensive photo record.
