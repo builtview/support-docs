@@ -26,7 +26,7 @@ Once you click create you can skip the rest of the steps – if you continue you
 
 5)	Add some tags to the team.
 
-Tags are an important aspect of creating a comprehensive and searchable photo record. We recommend creating up to 20 tags for users with folders. You can skip this stage and add tags later.
+Tags are an important aspect of creating a comprehensive and searchable photo record. We recommend creating up to 20 tags for users with folders. You can skip this stage and add tags later, learn how in the [Creating tags](https://support.builtview.com/teams-and-projects/5creating-tags) article.
 
 <center>
 ![Step 5: Creating a team](../assets/teams-and-projects/creatingteam4.png)
@@ -34,7 +34,7 @@ Tags are an important aspect of creating a comprehensive and searchable photo re
 
 6)	Invite users.
 
-Don’t forget to invite users so you and your team can create a comprehensive record of onsite photos. You can skip this step and read the Inviting Users article to learn how to invite users in different ways after a team has been created.
+Don’t forget to invite users so you and your team can create a comprehensive record of onsite photos. You can skip this step and read the [Inviting Users](https://support.builtview.com/teams-and-projects/3inviting-users) article to learn how to invite users in different ways after a team has been created.
 
 <center>
 ![Step 6: Creating a team](../assets/teams-and-projects/creatingteam5.png)

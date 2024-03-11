@@ -42,4 +42,4 @@ As a project admin you are able to view your project dashboard.
 
 This team will now be linked to your project. All users in your project will be able to join or leave this team and data will be connected to your project dashboard.
 
-When you are creating a new team, you can link it straight away to a project. Read the article [Creating a team](https://support.builtview.com/teams-and-projects/creating-team) to learn how.
+When you are creating a new team, you can link it straight away to a project. Read the article [Creating a team](https://support.builtview.com/teams-and-projects/2creating-team) to learn how.
