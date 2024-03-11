@@ -32,4 +32,4 @@ Uploading media allows you to have all onsite photos in one place.
 
 It is important to have a complete and full record of onsite photos integrated into Builtview. This creates a central repository for all onsite photos and allows accessibility for all users in your team. 
 
-Check out the [Mobile Help](https://support.builtview.com/mobile-help/uploading-media/) article collection to learn how to do this on mobile!
+Check out the [Mobile Help](https://support.builtview.com/mobile-help/4importing/) article collection to learn how to do this on mobile!

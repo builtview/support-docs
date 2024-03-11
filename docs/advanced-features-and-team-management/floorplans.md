@@ -95,7 +95,9 @@ The steps above for setting floorplan location to existing media items is the sa
 On mobile, you can capture content with the floorplan location already set! Follow the steps below to learn how.
 
 1)	Select the team with the floorplan uploaded on the camera page on mobile.
+
 2)	Click the floorplan icon and click to pinpoint the location of your capture.
+
 3)	Save and start capturing!
 
 <center>

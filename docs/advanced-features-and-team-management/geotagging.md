@@ -44,7 +44,7 @@ You should see a input box of all your tags at start of the page content. Undern
 ![Step 4: setting up geotagging](../assets/advanced-features/geotagging6.png)
 </center>
 
-5)  Using Point/Radius: Click on a point on the map 
+5)  Using Point/Radius: Click on a point on the map, scroll to the bottom of the pop-up to adjust the radius
 
 <center>
 ![Step 5: setting up geotagging](../assets/advanced-features/geotagging7.png)
@@ -54,4 +54,12 @@ You should see a input box of all your tags at start of the page content. Undern
 
 <center>
 ![Step 6: setting up geotagging](../assets/advanced-features/geotagging8.png)
+</center>
+
+7)  Once you have set your boundaries, click save at the bottom of the pop-up!
+
+Once you have clicked saved everything should work and photos taken within the boundaries will automatically have the tag selected.
+
+<center>
+![Step 7: setting up geotagging](../assets/advanced-features/geotagging9.png)
 </center>

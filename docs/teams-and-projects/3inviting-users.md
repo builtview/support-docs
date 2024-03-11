@@ -29,4 +29,4 @@ You have the option to invite users by email, other teams you are apart of, link
 - **Link**: Select a role and copy the invite link or generate a QR code to send to your users
 - **.Txt file**: As a way to invite a large number of users to a team, you can do this with a .txt file, if formatted correctly “email,role.” You can also include an invite message!
 
-Learn how to invite on mobile in the [Mobile Help](https://support.builtview.com/mobile-help/inviting-users) article collection.
+Learn how to invite on mobile in the [Mobile Help](https://support.builtview.com/mobile-help/3inviting-users) article collection.

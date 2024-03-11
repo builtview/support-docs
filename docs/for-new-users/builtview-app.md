@@ -3,7 +3,7 @@ title: "Get Started: BuiltView App"
 description: How to setup & get the most out of the BuiltView App
 ---
 
-When you first download and start up Builtview, the app will show you the basics on how to use the application! You can reset app tours in your profile settings to revisit them. To get the most out of Builtview mobile check out the article collection [Mobile Help](https://https://support.builtview.com/)
+When you first download and start up Builtview, the app will show you the basics on how to use the application! You can reset app tours in your profile settings to revisit them. To get the most out of Builtview mobile check out the article collection [Mobile Help](https://https://support.builtview.com/mobile-help/1capturing/)
 
 ## Getting Started
 

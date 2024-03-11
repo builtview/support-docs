@@ -10,9 +10,7 @@ From this page you can join or leave the teams within the project. If you join a
 
 <center>
 ![Managing Project Teams](../assets/teams-and-projects/managingprojectteams1.png)
-</center>
-
-2)  
+</center>  
 
 ### Conclusion
 

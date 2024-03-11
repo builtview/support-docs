@@ -30,7 +30,7 @@ You can quickly make neat daily site reports as presentations for clients. Built
 
 ## Map Overlays & KML Files
 
-When the Builtview app is used to capture content onsite it will record the GPS coordinates & location. The locations of media content can be visualised and overlaid on KML maps. To learn more about this check out the KML Maps article in the Advanced Features article collection.
+When the Builtview app is used to capture content onsite it will record the GPS coordinates & location. The locations of media content can be visualised and overlaid on KML maps. To learn more about this check out the [KML Maps](https://support.builtview.com/advanced-features-and-team-management/KML-maps/) article in the Advanced Features article collection.
 
 <center>
 ![Map View](../assets/getting-started/KML1.png)

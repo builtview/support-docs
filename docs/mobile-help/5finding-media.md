@@ -15,6 +15,3 @@ Finding media is made easy with Builtview with advanced categorisation features 
 <center>
 ![Filtering](../assets/mobile-help/FilteringGIF.gif)
 </center>
-
-*Insert video here showing how (this is already recorded) – slight error noticed here with tag input box – NAME: SharingGIF.gif*
-

@@ -13,9 +13,13 @@ Customisable site reports and exports are a valuable time saving features part o
 2)	Choose the type of export.
 
 You will be given multiple options for the type of exporting, including:
+
 -	PDF: Printable Report
+
 -	PPTX: Editable Report
+
 -	CSV: CSV Report
+
 -	ZIP: Raw media items
 
 <center>
@@ -25,8 +29,11 @@ You will be given multiple options for the type of exporting, including:
 3)	Choose the file quality.
 
 From this, you can choose the file quality:
+
 -	Low Quality: small files for easy sharing.
+
 -	Medium Quality: Medium-sized files, good for viewing on screens.
+
 -	High Quality: uncompressed files, best for printing.
 
 <center>
@@ -38,14 +45,23 @@ From this, you can choose the file quality:
 Each Export lets you choose the name before you download. 
 
 The PPTX and PDF reports lets you customise what the report looks like to fit your needs, you can customise:
+
 -	Page Template 
+
 -	Map Zoom Level
+
 -	What contextual information to include about each media item in the report:
+
     o	Uploader
+
     o	Tags
+
     o	Description
+
     o	Capture Date Time
+
     o	Map 
+
     o	Floorplan
 
 <center>
@@ -53,9 +69,13 @@ The PPTX and PDF reports lets you customise what the report looks like to fit yo
 </center>
 
 The ZIP file lets you include additional information in the filename for the individual photos:
+
 -	Uploader
+
 -	Tags
+
 -	Description
+
 -	Capture Date Time
 
 <center>

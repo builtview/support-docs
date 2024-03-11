@@ -9,7 +9,7 @@ Bulk selection refers to selecting multiple media items at once. Bulk selection 
 2)	You should see these options, including delete, copy, move, edit, and rotate.
 
 <center>
-![Bulk selection](../assets/mobile-help/SelectionGIF.gif)
+![Bulk selection](../assets/mobile-help/SelectingGIF.gif)
 </center>
 
 ## Changing media information in bulk
@@ -47,7 +47,6 @@ Taking photos in landscape is sometimes necessary to capture all the information
 
 ## Delete
 You or your team may accidentally upload photos that clutter and disorganise your photo records. Delete all duplicates or unnecessary media in bulk.
-*Insert video here showing how (this is already recorded) – NAME: BulkDeleteGIF.gif*
 
 <center>
 ![Bulk Delete](../assets/mobile-help/BulkDeleteGIF.gif)
