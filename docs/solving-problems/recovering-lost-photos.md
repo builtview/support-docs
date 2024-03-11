@@ -31,8 +31,10 @@ To do this, either open a single photo and press the "download" icon at the top 
 
 If you took a photo in the app but you cannot find it in the gallery on the phone, something may have gone wrong with tracking the media.
 
-There are multiple ways to locate missing files. You can check your BV camera roll (accessible in the gallery), recently uploaded media items or your activity log in the profile page to see if it got uploaded. The BV camera roll shows only your captures and uploads, you can use filters to make your search faster! If you have set up Store media externally you should be able to find it manually and import it if you are unable to find it in recently uploaded media, activity log or the BV camera roll.
+There are multiple ways to locate missing files. You can check your BV camera roll (accessible in the gallery), recently uploaded media items or your activity log (profile page) to see if it got uploaded. The BV camera roll shows only your captures and uploads, you can use filters to make your search faster! If you have set up Store media externally you should be able to find it manually and import it if you are unable to find it in recently uploaded media, activity log or the BV camera roll.
 
 <center>
 ![BV Camera Roll](../assets/solving-problems/CameraRollGIF.gif)
 </center>
+
+BV camera roll, recently uploaded media and the activity log are not available on Desktop. However, you can replicate the BV camera roll using the 'All photos and videos' team, and changing the uploader filter setting to only you. You can add additional filters to help you find missing files.
