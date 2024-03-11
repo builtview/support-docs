@@ -1,4 +1,6 @@
-# Changing Media Information
+---
+title: Changing Media Information
+---
 
 You can edit the tags, description, team, and GPS coordinates for media items when you click on them. 
 

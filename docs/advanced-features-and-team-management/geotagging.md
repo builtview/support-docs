@@ -1,4 +1,6 @@
-# Geotagging 
+---
+title: Geotagging
+---
 
 Geotagging is a relatively new feature Builtview has introduced. We want to make sure Builtview can continue to be invaluable as a searchable database without user’s spending extra time on site tours switching tags. As a way to streamline the application of tagging, geotagging was introduced. This is valuable for tags which are related to the GPS location.
 

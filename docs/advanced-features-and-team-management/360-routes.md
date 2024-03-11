@@ -1,3 +1,7 @@
+---
+title: Creating a 360 Route
+---
+
 # Creating a 360 Route
 
 BuiltView allows you to create walking or driving routes using 360 videos, to provide greater context. The route can even be used to navigate the video - it shows where you currently are, and by clicking anywhere on the route you can seek to that point in the video.

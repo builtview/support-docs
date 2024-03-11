@@ -1,4 +1,6 @@
-# Integrations
+---
+title: Integrations
+---
 
 You are able to integrate third party applications with Builtview to streamline your processes. In this article you will learn how to integrate FieldView with Builtview.
 

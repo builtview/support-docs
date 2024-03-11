@@ -1,4 +1,6 @@
-# Inviting Users
+---
+title: Inviting Users to teams
+---
 
 Invite your site team and let them capture and upload content in Builtview.
 

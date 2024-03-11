@@ -1,4 +1,6 @@
-# Bulk Selection
+---
+title: Selecting multiple media items
+---
 
 Bulk selection refers to the actions you can complete when you have selected multiple media items at once. Bulk selection makes it easier to edit the tags and descriptions, delete, move, or copy to another team and lets you create site reports. 
 

@@ -1,4 +1,6 @@
-# Floorplans
+---
+title: Floorplans
+---
 
 The floorplan feature in BuiltView is designed to help you localise your visual data in situations where GPS is unusable or insufficient - for example, when working underground or on multi-level vertical builds.
 

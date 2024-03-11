@@ -1,10 +1,15 @@
-# Creating a team
+---
+title: Creating a team - Mobile
+---
 
 Teams are an effective way of keeping track of onsite progress. If you have a large project, you can separate and organise progression throughout multiple teams and connect it in a project.
 
 1)	Go to the gallery page and click the ‘+’ icon on the right of the Teams title. 
+
 2)	Create a recognisable name for your team.
+
 3)	Optionally, allocate your team to a project.
+
 4)	Create your team.
 
 <center>

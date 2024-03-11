@@ -1,4 +1,6 @@
-# Intro to Teams and Projects
+---
+title: Intro to Teams and Projects
+---
 
 Teams are a great way to organise and store your onsite photos for effective record management. Based on the size of your site project you can separate your site progression in stages or different sections with teams. You can connect these teams in a project, making it easy to see onsite progress across multiple teams. 
 

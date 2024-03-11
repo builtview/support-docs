@@ -1,4 +1,6 @@
-# Managing Tags 
+---
+title: Managing tags
+---
 
 Managing tags is vital in large teams to ensure effective record management. Without this, 100s of tags will be used by your team making it difficult to both find the correct tag when capturing and finding media later. 
 

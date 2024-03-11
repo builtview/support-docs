@@ -1,4 +1,6 @@
-# Finding media.
+---
+title: Finding Media
+---
 
 You can filter or search from the following metrics on desktop on your team gallery page. If used properly and set up well, filtering by tags is a great way on locating media.
 -	Searching: search to see media items with a similar description

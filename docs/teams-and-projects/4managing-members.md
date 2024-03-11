@@ -1,4 +1,6 @@
-# Managing Members
+---
+title: Managing team members
+---
 
 For effective record management for your onsite photos, you need to manage members properly. This includes removing user’s and changing roles or permissions.
 

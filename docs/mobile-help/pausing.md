@@ -1,4 +1,6 @@
-# Pausing Uploads on mobile
+---
+title: Pausing uploads - Mobile
+---
 
 Some sites have inconsistent internet connections; therefore, we have developed our application to work around limited to no internet connection. When internet connection is re-established, the application automatically begins uploading all captures in the background, however this may prevent you from carrying out other task which take higher priority. 
 

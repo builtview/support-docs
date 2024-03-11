@@ -1,4 +1,7 @@
-# Creating new roles 
+---
+title: Creating new roles
+description: How to set up specific roles with granular permissions within your team
+---
 
 BuiltView allows you to create custom roles with specific permissions for each user. This allows you to control who can access certain features within your project and ensures that everyone has the right level of access to complete their tasks.
 

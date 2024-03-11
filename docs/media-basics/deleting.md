@@ -1,4 +1,6 @@
-# Deleting Media
+---
+title: Deleting Media
+---
 
 Deleting a media item can be done in bulk or individually in Builtview. To learn how to delete multiple media items at once look at this article.
 

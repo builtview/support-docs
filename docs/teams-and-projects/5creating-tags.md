@@ -1,4 +1,6 @@
-# Creating Tags
+---
+title: Creating tags for teams
+---
 
 What makes Builtview different from other photo management software is the tag system. It is an easy and quick way for users to categorise their photos with little effort. However, the effectiveness of this system is dependent on how it is set up. In a small team, you can get away with allowing users to create tags as they need, but in larger teams this needs to be organised. 
 

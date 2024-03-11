@@ -1,12 +1,18 @@
-# Managing Project Teams
+---
+title: Managing project teams
+---
 
 If you are a part of a project, you can access the teams associated with it. 
 
 1)	Click your project on the side navigation menu to see all teams associated with the project.
 
+From this page you can join or leave the teams within the project. If you join any of the teams in the projects you will have full permissions.
+
 <center>
 ![Managing Project Teams](../assets/teams-and-projects/managingprojectteams1.png)
 </center>
+
+2)  
 
 ### Conclusion
 

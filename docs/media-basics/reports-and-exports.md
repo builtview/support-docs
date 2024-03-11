@@ -1,4 +1,6 @@
-# Reports and Exports 
+---
+title: Reports and Exports
+---
 
 Customisable site reports and exports are a valuable time saving features part of Builtview making it easy to share with your team and clients. You can choose the type of export, quality, and what is included in the export.
 

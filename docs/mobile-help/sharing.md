@@ -1,10 +1,14 @@
-# Sharing media
-
+---
+title: Sharing Media - Mobile
+---
 You can invite guests to share your team content from within BuiltView, or you can send specific content to others outside of BuiltView through sharing. Share content of the whole team by inviting the guest to them. 
 
 1)	Locate the media item.
+
 2)	Click on the media item you want to share.
+
 3)	Press the share button at the top of the screen.
+
 You should be able to share the media file how you see fit.
 
 <center>

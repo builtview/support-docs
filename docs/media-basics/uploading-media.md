@@ -1,4 +1,6 @@
-# Uploading Media
+---
+title: Uploading media
+---
 
 Uploading media allows you to have all onsite photos in one place.
 

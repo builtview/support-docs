@@ -1,5 +1,6 @@
-# Markup and Annotating media
-
+---
+title: Markup and Annotate Media
+---
 Sometimes photos need some adjustments so you can see details more clearly, you can do this all in Builtview! You can add text, crop, rotate, draw, change brightness and much more.
 
 1)	Click on the media item you wish to annotate or edit.

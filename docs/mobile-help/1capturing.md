@@ -1,4 +1,6 @@
-# Capturing
+---
+title: Capturing Media - Mobile
+---
 
 Capturing media is made easy with Builtview! When you first launch the application, you will open to the camera page.
 
@@ -11,7 +13,7 @@ Capturing media is made easy with Builtview! When you first launch the applicati
 4)	Start capturing! Your media will get uploaded to your team – you can see the upload progress by clicking the circular uploading progress button.
 
 <center>
-![BV Capturing](../assets/mobile-help/CaptureGIF.gif)
+![BV Capturing](../assets/mobile-help/CapturingGIF.gif)
 </center>
 
 If you struggle to find your media after capturing, refer to the [Solving Problems](https://support.builtview.com/solving-problems/recovering-lost-media/) article collection. 

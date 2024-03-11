@@ -1,4 +1,6 @@
-# Creating a team
+---
+title: Creating a team
+---
 
 Creating a team lets you organise your files better and it is simple to do. You can do this is a few ways on desktop, such as when viewing all your teams, directly on the side navigation menu and in project teams. For this example, we will show you how to create a team from the navigation menu.
 

@@ -1,4 +1,6 @@
-# Managing Teams
+---
+title: Managing teams
+---
 
 You are able to manage your team in the team’s settings. This is accessible in the top right of the team gallery page in the ‘general’ tab. You can edit your team, leave, delete and archive.
 

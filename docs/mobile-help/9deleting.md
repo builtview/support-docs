@@ -1,9 +1,13 @@
-# Deleting Media
+---
+title: Deleting Media - Mobile
+---
 
 Clean up your documents by deleting irrelevant media items or duplicates.
 
 1)	Click on the media Item you want to delete.
+
 2)	Press the trash can icon at the top right of the screen.
+
 3)	Confirm 
 
 <center>

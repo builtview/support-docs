@@ -1,4 +1,6 @@
-# Creating a project
+---
+title: Creating a project
+---
 
 To create a project, you need access to your organisation’s page. If you do not have access, you are unable to create a project.
 
