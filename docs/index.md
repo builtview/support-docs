@@ -15,6 +15,14 @@ This documentation is designed to help you get the most out of BuiltView. If you
 
     [:octicons-arrow-right-24: Getting started](./for-new-users/first-time.md)
 
+-   __Everything you need to know - Mobile__
+
+    ---
+
+    Learn everything you need to know for the mobile application!
+
+    [:octicons-arrow-right-24: Getting started](./mobile-help/1capturing.md)
+
 -   __Teams and projects__
 
     ---
@@ -29,7 +37,7 @@ This documentation is designed to help you get the most out of BuiltView. If you
 
     Learn all things media in BuiltView from uploading to editing
 
-    [:octicons-arrow-right-24: Getting started](./media-basics/uploading-media.md)
+    [:octicons-arrow-right-24: Getting started](./media-basics/reports-and-exports.md)
 
 -   __BuiltView: 360 Tours__
 
