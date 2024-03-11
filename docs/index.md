@@ -15,14 +15,6 @@ This documentation is designed to help you get the most out of BuiltView. If you
 
     [:octicons-arrow-right-24: Getting started](./for-new-users/first-time.md)
 
--   __Everything you need to know - Mobile__
-
-    ---
-
-    Learn everything you need to know for the mobile application!
-
-    [:octicons-arrow-right-24: Getting started](./mobile-help/1capturing.md)
-
 -   __Teams and projects__
 
     ---
@@ -39,21 +31,21 @@ This documentation is designed to help you get the most out of BuiltView. If you
 
     [:octicons-arrow-right-24: Getting started](./media-basics/reports-and-exports.md)
 
--   __BuiltView: 360 Tours__
+-   __Everything you need to know - Mobile__
 
     ---
 
-    How to create and edit 360 tours on BuiltView
+    Learn everything you need to know for the mobile application
 
-    [:octicons-arrow-right-24: Getting started](./360-tours/about.md)
+    [:octicons-arrow-right-24: Getting started](./mobile-help/1capturing.md)
 
--   __BuiltView: Functions__
+-   __Advanced Features and Team Management__
 
     ---
 
     Take a look at some ways to add value to your onsite content
 
-    [:octicons-arrow-right-24: Getting started](./functions/kml-overlays.md)
+    [:octicons-arrow-right-24: Getting started](./advanced-features-and-team-management/floorplans.md)
 
 -   __Solving Problems__
 
