@@ -13,7 +13,7 @@ This documentation is designed to help you get the most out of BuiltView. If you
 
     To get the most out of BuiltView, take a look at these articles
 
-    [:octicons-arrow-right-24: Getting started](./for-new-users/first-time.md)
+    [:octicons-arrow-right-24: Getting started](./for-new-users/index.md)
 
 -   __Teams and projects__
 
