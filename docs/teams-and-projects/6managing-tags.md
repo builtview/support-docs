@@ -48,7 +48,7 @@ You can click on the folder to see the tags
 ![Tag folders](../assets/teams-and-projects/tagfolder4.png)
 </center>
 
-# Adding tags to tag folders
+## Adding tags to tag folders
 
 There are two ways to add tags into existing folders.
 

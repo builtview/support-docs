@@ -13,5 +13,5 @@ Finding media is made easy with Builtview with advanced categorisation features 
 4)	Click apply and you should see all media which have these parameters.
 
 <center>
-![Filtering](../assets/mobile-help/FilteringGIF.gif)
+![Filtering](../assets/mobile-help/Filtering.gif)
 </center>

@@ -12,7 +12,7 @@ You can invite guests to share your team content from within BuiltView, or you c
 You should be able to share the media file how you see fit.
 
 <center>
-![Sharing media](../assets/mobile-help/SharingGIF.gif)
+![Sharing media](../assets/mobile-help/SharingGIFINCOMPLETE.gif)
 </center>
 
 ### Conclusion

@@ -13,7 +13,7 @@ BuiltView has been developed with input from active site teams to ensure it cate
 ![BuiltView Mobile](../assets/getting-started/phone2.png)
 </center>
 
-The app is designed to replace your phone camera, to capture and document onsite activities which are automatically uploaded to BuiltView.com and can be shared with your selected work teams.
+The app is designed to replace your phone camera, to capture and document onsite activities which are automatically uploaded to [BuiltView.com](https://app.builtview.com/) and can be shared with your selected work teams.
 
 <center>
 ![BuiltView Web](../assets/getting-started/desktop.PNG)

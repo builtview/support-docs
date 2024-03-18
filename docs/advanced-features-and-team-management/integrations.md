@@ -1,8 +1,8 @@
 ---
-title: Integrations
+title: Fieldview integration
 ---
 
-You are able to integrate third party applications with Builtview to streamline your processes. In this article you will learn how to integrate FieldView with Builtview.
+You are able to integrate Fieldview with Builtview to streamline your processes.
 
 1)	Go to your profile accessible at the bottom of the side navigation menu.
 
@@ -30,4 +30,4 @@ You are able to integrate third party applications with Builtview to streamline 
 
 ### Conclusion
 
-Integrations lets you streamline your third party programs alongside Builtview.
+Integrate Fieldview to streamline your construction processes with Builtview.
