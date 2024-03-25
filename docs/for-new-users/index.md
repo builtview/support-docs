@@ -1,7 +1,9 @@
 ---
-title: For First Time Users
+title: What is Builtview?
 description: What is BuiltView and why incorporate it into your work flow?
 ---
+
+Get started on [Mobile](https://support.builtview.com/for-new-users/builtview-app/) or Get started on [Web](https://support.builtview.com/for-new-users/builtview-web/)
 
 _An effective & efficient construction team relies heavily upon good quality, well-kept & easily accessible documentation. It is understood that every week approximately 6,000 photos are taken daily, of these only 1,500 are saved & shared onto project servers, therefore 75% of photos are not accessible. BuiltView addresses this problem by automating the tedious process of uploading, organising & saving content and also allows users to add more context & detail to their photos and videos. Freeing up the precious time of site teams and ensuring that the documentation process is stress-free._
 
