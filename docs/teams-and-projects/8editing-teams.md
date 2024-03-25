@@ -1,14 +1,14 @@
 ---
-title: Managing teams
+title: Editing teams
 ---
 
-You are able to manage your team in the team’s settings. This is accessible in the top right of the team gallery page in the ‘general’ tab. You can edit your team, leave, delete and archive.
+You are able to manage your team in the team’s settings. This is accessible in the top right of the team gallery page in the ‘general’ tab. You can edit your team, leave, delete and archive. If you are unable to access team settings contact a Team Admin.
 
 <center>
 ![Managing Teams](../assets/teams-and-projects/managingteams1.png)
 </center>
 
-### Editing Teams
+### Edit Team Information
 In the team settings you can edit the name, display picture and associated project for the team. 
 
 ### Leaving Teams

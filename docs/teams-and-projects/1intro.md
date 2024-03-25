@@ -4,17 +4,21 @@ title: Intro to Teams and Projects
 
 Teams are a great way to organise and store your onsite photos for effective record management. Based on the size of your site project you can separate your site progression in stages or different sections with teams. You can connect these teams in a project, making it easy to see onsite progress across multiple teams. 
 
+As a Builtview user, you are able to create Teams easily but in order to create or gain access to a project contact IT Support.
+
 <center>
 ![Intro](../assets/teams-and-projects/teamintro1.png)
 </center>
 
-As a project admin you are able to view your project dashboard.
+As a project admin you are able to view your project dashboard. 
 
 <center>
 ![Intro](../assets/teams-and-projects/teamintro2.png)
 </center>
 
 ## How do you assign existing teams to projects?
+
+You need to be invited to a project to link a team to it. Contact project administrator or IT Support if you require access.
 
 1)	Access team settings on the top right of your team gallery.
 

@@ -2,7 +2,7 @@
 title: User Permissions in teams
 ---
 
-By Default, there are four roles in each team. You can find this at the bottom of the ‘members’ tab in the team settings. You are not able to delete these roles, but you can view the permissions or duplicate them.
+By Default, there are four roles in each team. You can find this at the bottom of the ‘members’ tab in the team settings. You are not able to delete these roles, but you can view the permissions or duplicate them. 
 
 <center>
 ![User permissions in teams](../assets/teams-and-projects/userpermissions1.png)

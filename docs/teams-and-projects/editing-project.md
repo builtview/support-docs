@@ -1,7 +1,7 @@
 ---
 title: Editing a project
 ---
-This is reserved for project or organisation administrators.
+This is reserved for project or organisation administrators. Contact project administrator or IT Support if you require access.
 
 Similar for teams, you can edit the name of your project and the display picture, making it easier for your users to recognise your project. You are only able to access project settings if you have access to the project dashboard.
 

@@ -2,7 +2,7 @@
 title: Accessing project teams
 ---
 
-If you are a part of a project, you can access the teams associated with it. 
+If you are a part of a project, you can access the teams associated with it. Contact project administrator or IT Support if you require access.
 
 1)	Click your project on the side navigation menu to see all teams associated with the project.
 
