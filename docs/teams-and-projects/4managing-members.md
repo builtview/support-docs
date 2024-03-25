@@ -26,7 +26,7 @@ From this page, you can search to locate team members, change roles, and remove 
 
 4)	User roles and permissions
 
-You can also view the roles apart of your team. If you are a member, you can change the role permissions or create new roles. <em>This is not recommended as it can impacts the quality of your record keeping if permissions are not set correctly.</em> To learn more about user permissions and creating new roles check out the [Creating new user roles](https://support.builtview.com/advanced-features-and-team-management/creating-roles) article.
+You can also view the roles apart of your team. If you are a member, you can change the role permissions or create new roles. <em>This is not recommended as it can impacts the quality of your record keeping if permissions are not set correctly.</em> To learn more about user permissions and creating new roles check out the [Creating new user roles](https://support.builtview.com/team-management-and-advanced-features/creating-roles) article.
 
 <center>
 ![Step 4: Managing team members](../assets/teams-and-projects/managingmembers4.png)

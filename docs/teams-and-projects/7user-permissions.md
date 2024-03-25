@@ -13,4 +13,4 @@ By Default, there are four roles in each team. You can find this at the bottom o
 -	**Archivist**: Archivist filter, search and locate media items in the team record and create site reports, they can see archived and deleted media as well. They are unable to make any changes which could impact the record or upload. This is usually given to clients or users after a project is completed.
 -	**Read-Only**: Read-Only and Archivist roles are similar, however Read-Only are unable to see who uploaded content, deleted, or archived content. They can view the gallery but cannot interact. 
 
-To learn more about user permissions and creating more roles, check out the [Creating user roles](https://support.builtview.com/advanced-features-and-team-management/creating-roles/) article.
+To learn more about user permissions and creating more roles, check out the [Creating user roles](https://support.builtview.com/team-management-and-advanced-features/creating-roles/) article.

@@ -1,5 +1,5 @@
 ---
-title: Managing project teams
+title: Accessing project teams
 ---
 
 If you are a part of a project, you can access the teams associated with it. 

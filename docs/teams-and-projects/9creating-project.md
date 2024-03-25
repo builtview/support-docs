@@ -2,7 +2,7 @@
 title: Creating a project
 ---
 
-To create a project, you need access to your organisation’s page. If you do not have access, you are unable to create a project.
+To create a project, you need to be an organisational admin. If you need to create a project contact LORA IT.
 
 1)	Go to your organisation dashboard page, accessible in the side navigation menu.
 

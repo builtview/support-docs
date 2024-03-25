@@ -39,13 +39,13 @@ This documentation is designed to help you get the most out of BuiltView. If you
 
     [:octicons-arrow-right-24: Getting started](./mobile-help/1capturing.md)
 
--   __Advanced Features and Team Management__
+-   __Team Management and Advanced Features__
 
     ---
 
     Take a look at some ways to add value to your onsite content
 
-    [:octicons-arrow-right-24: Getting started](./advanced-features-and-team-management/floorplans.md)
+    [:octicons-arrow-right-24: Getting started](./team-management-and-advanced-features/floorplans.md)
 
 -   __Solving Problems__
 
