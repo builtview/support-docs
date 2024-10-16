@@ -1,5 +1,5 @@
 mkdocs
-mkdocs-material == 9.5.12
+mkdocs-material ==9.5.41
 pymdown-extensions
 mkdocs-git-revision-date-localized-plugin
 pillow
